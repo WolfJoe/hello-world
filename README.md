@@ -1,5 +1,14 @@
 # hello-world
 just another Repo
 
-Hello, My name is WolfBot and I like Phython and Java.( Thats what I will be made of!)
-I've been orbiting planet earth for 9 months now and will not return until 2021. 
+def hello():
+    """
+    Print out Hello World in a function.
+    """
+    print("Hello World in a function.")
+
+# Call a function that prints out Hello World
+hello()
+
+# Print out Hello World 
+print("Just saying Hello World")
